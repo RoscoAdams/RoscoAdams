@@ -3,7 +3,7 @@
 <h2>👨‍💻 Developer Projects:</h2>
 
 - <b>Wiki Encyclopedia Project</b>
-  - [Python - Django and HTML](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Python - Django and HTML](https://github.com/RoscoAdams/WikiEncyclopedia)
 - <b>Ecommerce and Auction Web App (Python, Django, SQlite, HTML and CSS)</b>
   - [Ecommerce and Auction Web App Design](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Mailbox (Python, Django, SQLite, Javascript, HTML and CSS)</b>
