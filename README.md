@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rosco!</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Developer Projects:</h2>
 
 - <b>Wiki Encyclopedia Project</b>
   - [Python - Django and HTML](https://github.com/joshmadakor1/Algorithms-Practice)
