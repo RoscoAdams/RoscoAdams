@@ -13,7 +13,7 @@
   - [Social Network Design](https://github.com/RoscoAdams/SocialNetwork)
  
 - <b>Chat Web App (Python, Django, Django Rest Framework, SQLite, Javascript, React, HTML and CSS)</b>
-  - [Chat Web App](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Chat Web App](https://github.com/RoscoAdams/ChatWebApp)
 
 <h2>📺 YouTube Videos</h2>
 
