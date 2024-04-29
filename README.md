@@ -5,7 +5,7 @@
 - <b>Wiki Encyclopedia Project</b>
   - [Python - Django and HTML](https://github.com/RoscoAdams/WikiEncyclopedia)
 - <b>Ecommerce and Auction Web App (Python, Django, SQlite, HTML and CSS)</b>
-  - [Ecommerce and Auction Web App Design](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Ecommerce and Auction Web App Design](https://github.com/RoscoAdams/Ecommerce)
 - <b>Mailbox (Python, Django, SQLite, Javascript, HTML and CSS)</b>
   - [Mailbox Design](https://github.com/joshmadakor1/Sentinel-Lab)
 
