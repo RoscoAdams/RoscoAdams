@@ -10,7 +10,7 @@
   - [Mailbox Project](https://github.com/RoscoAdams/MailBox)
 
 - <b>Social Network (Python, Django, SQLite, Javascript, HTML and CSS)</b>
-  - [Social Network Design](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Social Network Design](https://github.com/RoscoAdams/SocialNetwork)
  
 - <b>Chat Web App (Python, Django, Django Rest Framework, SQLite, Javascript, React, HTML and CSS)</b>
   - [Chat Web App](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
