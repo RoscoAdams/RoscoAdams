@@ -16,13 +16,13 @@
   - [Chat Web App](https://github.com/RoscoAdams/ChatWebApp)
 
  - <b>Hydraulic Service Landing Page (React, HTML and Tailwind CSS)</b>
-   - [Landing Page](https://github.com/RoscoAdams/Hydraulic-Landing-Page)
+   - [Hydraulic Service Landing Page](https://github.com/RoscoAdams/Hydraulic-Landing-Page)
 
 - <b>Nike Theme Landing Page (React, HTML and Tailwind CSS)</b>
-  - [Landing Page](https://github.com/RoscoAdams/Hydraulic-Landing-Page)
+  - [Nike Theme Landing Page](https://github.com/RoscoAdams/Hydraulic-Landing-Page)
  
 - <b>Dental Practice Landing Page (React, HTML and Tailwind CSS)</b>
-  - [Landing Page](https://github.com/RoscoAdams/Hydraulic-Landing-Page)
+  - [Dental Practice Landing Page](https://github.com/RoscoAdams/Hydraulic-Landing-Page)
 
 <h2>📺 YouTube Videos</h2>
 
