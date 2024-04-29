@@ -15,6 +15,15 @@
 - <b>Chat Web App (Python, Django, Django Rest Framework, SQLite, Javascript, React, HTML and CSS)</b>
   - [Chat Web App](https://github.com/RoscoAdams/ChatWebApp)
 
+ - <b>Hydraulic Service Landing Page (React, HTML and Tailwind CSS)</b>
+  - [Landing Page](https://github.com/RoscoAdams/Hydraulic-Landing-Page)
+
+- <b>Nike Theme Landing Page (React, HTML and Tailwind CSS)</b>
+  - [Landing Page](https://github.com/RoscoAdams/Hydraulic-Landing-Page)
+ 
+- <b>Dental Practice Landing Page (React, HTML and Tailwind CSS)</b>
+  - [Landing Page](https://github.com/RoscoAdams/Hydraulic-Landing-Page)
+
 <h2>📺 YouTube Videos</h2>
 
 - [Wiki Encyclopedia Project](https://www.youtube.com/watch?v=a83ASGn_V_s)
