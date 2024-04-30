@@ -25,7 +25,7 @@
   - [Dental Practice Landing Page](https://github.com/RoscoAdams/DentalLandingPage)
  
 - <b>Driving School Landing Page (React, HTML and Tailwind CSS)</b>
-  - [Driving School Landing Page](https://github.com/RoscoAdams/Hydraulic-Landing-Page)
+  - [Driving School Landing Page](https://github.com/RoscoAdams/DrivingSchool)
 
 <h2>📺 YouTube Videos</h2>
 
