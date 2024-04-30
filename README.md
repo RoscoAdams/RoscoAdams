@@ -22,7 +22,7 @@
   - [Nike Theme Landing Page](https://github.com/RoscoAdams/NikeLandingPage)
  
 - <b>Dental Practice Landing Page (React, HTML and Tailwind CSS)</b>
-  - [Dental Practice Landing Page](https://github.com/RoscoAdams/Hydraulic-Landing-Page)
+  - [Dental Practice Landing Page](https://github.com/RoscoAdams/DentalLandingPage)
  
 - <b>Driving School Landing Page (React, HTML and Tailwind CSS)</b>
   - [Driving School Landing Page](https://github.com/RoscoAdams/Hydraulic-Landing-Page)
