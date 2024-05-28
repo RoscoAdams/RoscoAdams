@@ -28,7 +28,7 @@
   - [Driving School Landing Page](https://github.com/RoscoAdams/DrivingSchool)
 
  - <b>AI Girlfriend Chat Locally (Python, Flask, Langchain, OpenAI and ElevenLabs)</b>
-  - [AI Girlfriend Locally on your machine](https://github.com/RoscoAdams/AIGirlfriendLocally)
+    - [AI Girlfriend Locally on your machine](https://github.com/RoscoAdams/AIGirlfriendLocally)
 
 <h2>📺 YouTube Videos</h2>
 
